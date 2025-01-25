@@ -4,7 +4,7 @@
 This project implements a machine learning model for classifying Iris flowers using Random Forest algorithms.
 
 ## Dataset
-- Source: Iris dataset 
+- Source: Iris dataset (https://www.kaggle.com/datasets/saurabh00007/iriscsv)
 - Features: Sepal length, sepal width, petal length, petal width
 - Target Classes: Setosa, Versicolor, Virginica
 
